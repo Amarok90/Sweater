@@ -13,18 +13,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a5011f3-5dbe-4fb8-a358-aa8a66f0f79b" name="Default Changelist" comment="3rd video tutorial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/service/UserService.java" afterDir="false" />
+    <list default="true" id="3a5011f3-5dbe-4fb8-a358-aa8a66f0f79b" name="Default Changelist" comment="4th video tutorial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/common.ftlh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_samskivert_jmustache_1_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mustache_2_3_4_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/main.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/main.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Templates/main.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Templates/main.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/config/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/greeting.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +35,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -142,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600854958284</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4th video tutorial commit">
+      <created>1600858107546</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600858107546</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,7 +168,8 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Second project day" />
     <MESSAGE value="3rd video tutorial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd video tutorial commit" />
+    <MESSAGE value="4th video tutorial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th video tutorial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="483" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1600855847366">
@@ -181,34 +185,38 @@
       <screen x="-1920" y="-32" width="1920" height="1057" />
     </state>
     <state x="-814" y="437" key="Github.CreateGistDialog/0.23.1280.713/-1920.-32.1920.1057@-1920.-32.1920.1057" timestamp="1600676263180" />
-    <state width="1136" height="111" key="GridCell.Tab.0.bottom" timestamp="1600857710430">
+    <state width="1084" height="111" key="GridCell.Tab.0.bottom" timestamp="1600869976193">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
     <state width="1178" height="170" key="GridCell.Tab.0.bottom/0.23.1280.713/-1920.-32.1920.1057@0.23.1280.713" timestamp="1600780340865" />
     <state width="1178" height="170" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1600784294252" />
-    <state width="1235" height="117" key="GridCell.Tab.0.bottom/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600854707125" />
-    <state width="1136" height="111" key="GridCell.Tab.0.bottom/0.23.1280.716/-1920.-32.1920.1057@0.23.1280.716" timestamp="1600857710430" />
-    <state width="1136" height="111" key="GridCell.Tab.0.center" timestamp="1600857710423">
+    <state width="1084" height="111" key="GridCell.Tab.0.bottom/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600869076348" />
+    <state width="1084" height="111" key="GridCell.Tab.0.bottom/0.23.1280.716/-1920.-32.1920.1057@0.23.1280.716" timestamp="1600869862715" />
+    <state width="1084" height="111" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1600869976193" />
+    <state width="1084" height="111" key="GridCell.Tab.0.center" timestamp="1600869976192">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
     <state width="1178" height="170" key="GridCell.Tab.0.center/0.23.1280.713/-1920.-32.1920.1057@0.23.1280.713" timestamp="1600780340864" />
     <state width="1178" height="170" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1600784294252" />
-    <state width="1235" height="117" key="GridCell.Tab.0.center/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600854707118" />
-    <state width="1136" height="111" key="GridCell.Tab.0.center/0.23.1280.716/-1920.-32.1920.1057@0.23.1280.716" timestamp="1600857710423" />
-    <state width="1136" height="111" key="GridCell.Tab.0.left" timestamp="1600857710380">
+    <state width="1084" height="111" key="GridCell.Tab.0.center/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600869076347" />
+    <state width="1084" height="111" key="GridCell.Tab.0.center/0.23.1280.716/-1920.-32.1920.1057@0.23.1280.716" timestamp="1600869862714" />
+    <state width="1084" height="111" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1600869976192" />
+    <state width="1084" height="111" key="GridCell.Tab.0.left" timestamp="1600869976190">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
     <state width="1178" height="170" key="GridCell.Tab.0.left/0.23.1280.713/-1920.-32.1920.1057@0.23.1280.713" timestamp="1600780340863" />
     <state width="1178" height="170" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1600784294251" />
-    <state width="1235" height="117" key="GridCell.Tab.0.left/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600854707111" />
-    <state width="1136" height="111" key="GridCell.Tab.0.left/0.23.1280.716/-1920.-32.1920.1057@0.23.1280.716" timestamp="1600857710380" />
-    <state width="1136" height="111" key="GridCell.Tab.0.right" timestamp="1600857710428">
+    <state width="1084" height="111" key="GridCell.Tab.0.left/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600869076346" />
+    <state width="1084" height="111" key="GridCell.Tab.0.left/0.23.1280.716/-1920.-32.1920.1057@0.23.1280.716" timestamp="1600869862713" />
+    <state width="1084" height="111" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1600869976190" />
+    <state width="1084" height="111" key="GridCell.Tab.0.right" timestamp="1600869976193">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
     <state width="1178" height="170" key="GridCell.Tab.0.right/0.23.1280.713/-1920.-32.1920.1057@0.23.1280.713" timestamp="1600780340864" />
     <state width="1178" height="170" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1600784294252" />
-    <state width="1235" height="117" key="GridCell.Tab.0.right/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600854707123" />
-    <state width="1136" height="111" key="GridCell.Tab.0.right/0.23.1280.716/-1920.-32.1920.1057@0.23.1280.716" timestamp="1600857710428" />
+    <state width="1084" height="111" key="GridCell.Tab.0.right/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600869076347" />
+    <state width="1084" height="111" key="GridCell.Tab.0.right/0.23.1280.716/-1920.-32.1920.1057@0.23.1280.716" timestamp="1600869862715" />
+    <state width="1084" height="111" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1600869976193" />
     <state width="1178" height="212" key="GridCell.Tab.1.bottom" timestamp="1600777764271">
       <screen x="0" y="23" width="1280" height="713" />
     </state>
@@ -229,20 +237,25 @@
     </state>
     <state width="1178" height="212" key="GridCell.Tab.1.right/0.23.1280.713/-1920.-32.1920.1057@0.23.1280.713" timestamp="1600777764271" />
     <state width="934" height="212" key="GridCell.Tab.1.right/0.23.1280.713@0.23.1280.713" timestamp="1600608452703" />
-    <state x="-848" y="176" key="RollbackChangesDialog" timestamp="1600679628997">
-      <screen x="-1920" y="-32" width="1920" height="1057" />
+    <state x="655" y="93" key="RollbackChangesDialog" timestamp="1600869663569">
+      <screen x="0" y="23" width="1280" height="716" />
     </state>
     <state x="-848" y="176" key="RollbackChangesDialog/0.23.1280.715/-1920.-32.1920.1057@-1920.-32.1920.1057" timestamp="1600679628997" />
+    <state x="655" y="93" key="RollbackChangesDialog/0.23.1280.716/-1920.-32.1920.1057@0.23.1280.716" timestamp="1600869663569" />
     <state x="-1663" y="-32" width="982" height="715" key="SettingsEditor" timestamp="1600682874846">
       <screen x="-1920" y="-32" width="1920" height="1057" />
     </state>
     <state x="-1663" y="-32" key="SettingsEditor/0.23.1280.715/-1920.-32.1920.1057@-1920.-32.1920.1057" timestamp="1600682874846" />
     <state x="171" y="23" width="982" height="715" key="SettingsEditor/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600681086477" />
-    <state x="272" y="146" key="Vcs.Push.Dialog.v2" timestamp="1600854969194">
+    <state x="272" y="146" key="Vcs.Push.Dialog.v2" timestamp="1600858117916">
       <screen x="0" y="23" width="1280" height="715" />
     </state>
     <state x="-1051" y="206" key="Vcs.Push.Dialog.v2/0.23.1280.715/-1920.-32.1920.1057@-1920.-32.1920.1057" timestamp="1600683006967" />
-    <state x="272" y="146" key="Vcs.Push.Dialog.v2/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600854969194" />
+    <state x="272" y="146" key="Vcs.Push.Dialog.v2/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600858117915" />
+    <state x="430" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600869617202">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="430" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.716/-1920.-32.1920.1057@0.23.1280.716" timestamp="1600869617202" />
     <state x="-863" y="364" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600680234061">
       <screen x="-1920" y="-32" width="1920" height="1057" />
     </state>
@@ -252,6 +265,10 @@
       <screen x="0" y="23" width="1280" height="713" />
     </state>
     <state x="199" y="143" key="refactoring.ChangeSignatureDialog/0.23.1280.713@0.23.1280.713" timestamp="1600608150182" />
+    <state x="424" y="199" key="run.anything.popup" timestamp="1600867608805">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="424" y="199" key="run.anything.popup/0.23.1280.715/-1920.-32.1920.1057@0.23.1280.715" timestamp="1600867608805" />
     <state x="320" y="62" key="search.everywhere.popup" timestamp="1600852183497">
       <screen x="0" y="23" width="1280" height="715" />
     </state>
